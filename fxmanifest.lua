@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Ajay'
-description ' promo code script made by Ajay'
+description ' promo code script made by AJAY#4320'
 version '1.3'
 
 shared_scripts {
